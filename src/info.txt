@@ -1,0 +1,8 @@
+
+[
+    {"name": 'Nike Jordan 100', "price": 16500, "imageurl": '/img/sneakers/1.jpg'},
+    {"name": 'Nike Air Max 200', "price": 18500, "imageurl": '/img/sneakers/2.jpg'},
+    {"name": 'Nike Air Max 300', "price": 19500, "imageurl": '/img/sneakers/3.jpg'},
+    {"name": 'Nike Air Max 400', "price": 13500, "imageurl": '/img/sneakers/1.jpg'},
+    {"name": 'Nike Air Max 500', "price": 15500, "imageurl": '/img/sneakers/2.jpg'},
+]
